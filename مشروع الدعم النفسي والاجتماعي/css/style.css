@@ -1,0 +1,141 @@
+body{ background:url("../imges/ologa-thelavart-HZm2XR0whdw-unsplash.jpg") ;
+    color: black
+    font-siz 100%;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    text-align: left;
+    width:80;
+    margin: 10px auto;
+
+}
+.mainheader img{ 
+    box-sizing:border-box;
+    width:100%;
+}
+a{
+    text-decoration: none;
+}
+a:link, a:visited{
+    color: #9c550f;
+}
+.mainheader nav{
+    background-color: #552e08;
+    height: 60;
+    border-radius: 10px;-moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    box-shadow: 0px 0px 8px white;
+}
+.mainheader nav ul{
+    text-align:center ;
+    list-style: none;
+    margin: 0px auto;
+}
+.mainheadera link, .mainheadera:visited{
+    color: white;
+    padding: 20px 60px;
+    display: inline-block;
+    height: 20px;
+}
+.mainheader a:hover, .mainheader a:a ctive{
+    background-color: #f6c08b;
+    text-shadow:none;
+}
+/*-----------------------------------------*/
+.top_content header h1,h2{
+    color: #552e08;
+}
+.mainheader{
+    width:65%;
+    float:left;
+}
+.top_content{
+    background-color: whitesmoke;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:10px; -moz-border-radius:10px;
+    -webkit-border-redius:10px;
+}
+.post-content{
+    display: block;
+}
+.post-img{
+    width:100%;
+}
+figure{
+    margin:20px 0;
+    font-size:90%;
+    color: #999;
+}
+.maincontent h1{
+    color:#552e08;
+}
+/*-----------------------------------------------------*/
+.theSider{
+    width:25%;
+    float:left;
+    background-color:whitesmoke; 
+    padding:3%;
+    margin-top: 2%;
+    margin-left: 3%;
+    border-radius:10px; -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+}
+.theSider h3{
+    color: #552e08;
+}
+.clear{
+    clear:both;
+}
+/*----------------------------------------------------------*/
+.footer{
+    background-color: #552e08;
+    height: 60px;
+    border-radius:10px; -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    box-shadow: 0px 0px 8px white;
+    color: white;
+    text-align:center;
+    padding:20px;
+    margin-top: 2%;
+}
+/*-----------------------------------------------------------*/
+.services.h1{
+    text-align:center;
+    font-size: 40px;
+    color: #552e08;
+}
+.services.p{
+    text-align:center;
+    color: #717171;
+    font-size:90%;
+    margin-top:-25px;
+}
+.item-card{
+    float: left;
+    width: 45;
+    padding: 10px;
+    margin:10px 10px;
+    background-color: whitesmoke;
+    border-radius:30px; -moz-border-radius:30px;
+    -webkit-border-radius:30px;
+}
+.card-img{
+    width:100px;
+    height:100px;
+    border-radius:90px;
+    margin:auto;
+    background-color: #f6c08b;
+    margin-top: 30px;
+}
+.c2{/***********************************************2*/
+    margin-left :75px;
+}
+.card-h2{
+    text-align:center;
+}
+.card-p{
+    text-align: center;
+}
+.item-card:hover{
+    background-color: #f8dfc9;
+}
